@@ -56,10 +56,8 @@
 
 表示图片：
 
-![](![-2a003e3b5513968c.jpg (72×78) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg
-
+![](![-2a003e3b5513968c.jpg (72×78) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg)
 )
-
 ---
 
 
