@@ -56,7 +56,7 @@
 
 表示图片：
 
-![图片]([-2a003e3b5513968c.jpg (72×78) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg))
+![picture]([-2a003e3b5513968c.jpg (72×78) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg))
 
 ---
 
@@ -98,7 +98,7 @@
 
 
 
-​	![图片]([1667221071107.jpeg (720×495) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/1667221071107.jpeg))
+​	![picture]([1667221071107.jpeg (720×495) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/1667221071107.jpeg))
 
 来自知乎的神奇GitHup介绍
 
@@ -116,7 +116,7 @@ Git 是一款免费、开源的分布式版本控制系统，也是当今最为�
 
 ## 2.个人理解
 
-![图片]([IMG_20221031_214637.jpg (4208×3120) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/IMG_20221031_214637.jpg))
+![picture]([IMG_20221031_214637.jpg (4208×3120) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/IMG_20221031_214637.jpg))
 
 
 
