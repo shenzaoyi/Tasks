@@ -56,7 +56,7 @@
 
 表示图片：
 
-![picture]([(https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg)
+![picture]([https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg)
 
 ---
 
