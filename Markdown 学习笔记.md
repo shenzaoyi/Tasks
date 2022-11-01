@@ -116,7 +116,7 @@ Git 是一款免费、开源的分布式版本控制系统，也是当今最为�
 
 ## 2.个人理解
 
-![图片](https://bucket-ynote-online-cdn.note.youdao.com/weixinobU7Vjsoz1YTmmMvAT2uPTlPVVGk%2FC982C30C227E4D4484B66EC463F87D81?download=IMG_20221031_214637.jpg&Signature=f6TlIQ8Dk7aWFPOvchu%2BgnuqjfXfm1RTcaAgXknPUzQ%3D&Expires=1667291069&NOSAccessKeyId=e7d1acab859342789faa85a4b0cb4c83)
+![图片](https://note.youdao.com/yws/public/resource/3d8967ac52639ca882ea17a31c8bae60/xmlnote/WEBRESOURCE9b4842ea739341f8e91ec892d3c035eb/12)
 
 
 
