@@ -116,7 +116,7 @@ Git 是一款免费、开源的分布式版本控制系统，也是当今最为�
 
 ## 2.个人理解
 
-![picture]([IMG_20221031_214637.jpg (4208×3120) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/IMG_20221031_214637.jpg))
+![picture]([IMG_20221031_214637.jpg (4208×3120) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/IMG_20221031_214637.png))
 
 
 
