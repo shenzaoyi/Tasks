@@ -56,7 +56,7 @@
 
 表示图片：
 
-![图片](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg)
+![]([-2a003e3b5513968c.jpg (72×78) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg))
 
 ---
 
@@ -98,7 +98,7 @@
 
 
 
-​	![片](https://bucket-ynote-online-cdn.note.youdao.com/weixinobU7Vjsoz1YTmmMvAT2uPTlPVVGk%2F910B376DC0E2462AA9390BD591AD125D?download=1667221071107.jpeg&Signature=AFhV6FNNDIRhVwnRt%2F%2BsVKGqjkRrS1GmfaYlPJdLbTc%3D&Expires=1667291207&NOSAccessKeyId=e7d1acab859342789faa85a4b0cb4c83)
+​	![]([1667221071107.jpeg (720×495) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/1667221071107.jpeg))
 
 来自知乎的神奇GitHup介绍
 
@@ -116,7 +116,7 @@ Git 是一款免费、开源的分布式版本控制系统，也是当今最为�
 
 ## 2.个人理解
 
-![图片](https://note.youdao.com/yws/public/resource/3d8967ac52639ca882ea17a31c8bae60/xmlnote/WEBRESOURCE9b4842ea739341f8e91ec892d3c035eb/12)
+![]([IMG_20221031_214637.jpg (4208×3120) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/IMG_20221031_214637.jpg))
 
 
 
