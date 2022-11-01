@@ -56,7 +56,7 @@
 
 表示图片：
 
-![](C:\Users\神造诣\Pictures\-2a003e3b5513968c.jpg)
+![](https://note.youdao.com/yws/public/resource/3d8967ac52639ca882ea17a31c8bae60/xmlnote/WEBRESOURCEae66a52b0024080e8e6b1ad698512d0d/3)
 
 ---
 
@@ -98,7 +98,7 @@
 
 
 
-​	![](C:\Users\神造诣\Pictures\1667221071107.jpeg)
+​	![](https://note.youdao.com/yws/public/resource/3d8967ac52639ca882ea17a31c8bae60/xmlnote/WEBRESOURCE9215739423084c97d1e834927bc46d24/8)
 
 来自知乎的神奇GitHup介绍
 
@@ -116,7 +116,7 @@ Git 是一款免费、开源的分布式版本控制系统，也是当今最为�
 
 ## 2.个人理解
 
-<img src="C:\Users\神造诣\Pictures\IMG_20221031_214637.jpg" style="zoom: 50%;" />
+![](https://note.youdao.com/yws/public/resource/3d8967ac52639ca882ea17a31c8bae60/xmlnote/WEBRESOURCE9b4842ea739341f8e91ec892d3c035eb/12)
 
 
 
