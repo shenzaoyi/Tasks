@@ -56,7 +56,12 @@
 
 表示图片：
 
-![]([](！https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg))
+![](![-2a003e3b5513968c.jpg (72×78) (raw.githubusercontent.com)](https://raw.githubusercontent.com/shenzaoyi/picture/main/-2a003e3b5513968c.jpg)
+
+神造诣  15:52:47
+刚刚那个是外显的，如果编辑的话是这个链接
+
+)
 
 ---
 
