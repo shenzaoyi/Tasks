@@ -251,6 +251,28 @@ If 四个角全为相同的角度，border-radius:20px;      有趣的是：一�
 2. ​	a:{text-decoration:none}    a:hover{text-decoration:underline;
 
 
+***new***
+    # css定位机制
+## 一.文本流定位---flow
+文本流☞按照文本的规则，由上到下，由左到右分布，其中，HTML标签分为块状元素（block），行内元素（inline) & 块状行内元素（inline-block）。block独占一行，可以设置width，height，Margin等。inline则并不独占一行，并且他还不能设置width&height，其width是由标签内所容纳的图片或文本的宽度决定。
+
+## 二.浮动定位--float
+浮动定位是指元素脱离文本流，浮动起来，并且此时原来的位置已经失去，可以用float:right/left/center,来定义，也可以用clear来清除浮动，取值为：left，right，both。
+
+除此之外，float属性还有一些特点：下降&下降卡住
+![下降&卡住](C:\Users\神造诣\Pictures\Saved Pictures\Screenshot_20221121_161208.jpg)
+clear属性用处：
+![](C:\Users\神造诣\Pictures\Saved Pictures\Screenshot_20221121_161347.jpg)
+![](C:\Users\神造诣\Pictures\Saved Pictures\Screenshot_20221121_161404.jpg)
+
+## 三.层定位--layer
+position属性：fixed固定定位，relative相对定位，absolute绝对定位，static（意思为静止的）此处指默认，在四个属性中，只要static对z-index生效。
+
+<ul>
+<li>fixed：固定的，也不随网页的下翻而消失，常见于小广告，早easypage里面的传奇体现。
+<li>relative:相对的，定位为relative的元素脱离文档流，但是但是，其原位置依然存在，他的特点是总是相对其直接父元素定位。
+<li>absolute：绝对定位，对于absolute定位总是相对于其最近的定义为absolute or relative 的父层，if没有，则相对于body.
+将absolute&relative归纳为偏移定位（自己取的），均是根据top,bototm,right,left来相对父层定位。
 
 
 
