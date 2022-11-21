@@ -58,7 +58,7 @@ eg：<!link href="**base.css**" rel="stylesheet" type="text/css" />
 
 
 
-1.标签选择，如<h1><html>等可以直接用格式：名字{
+1.标签选择，如<h1！><html>等可以直接用格式：名字{
 
 声明}来选择；且注意此时只要名字而不需要尖括号
 
