@@ -1,0 +1,86 @@
+#一开始是bs4找img，然后解析出src，网站的src不是链接，换方法了我。发现图片的url都是一样的，
+# 我就用正则爬取这些汉字，因为汉字是这些图片url 的唯一不同的地方。
+
+
+
+import time
+import requests
+from bs4 import BeautifulSoup       #导入包
+import re
+
+
+url = 'https://itawenya.cn/'
+header = {
+   "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76"
+}
+# 请求头和url
+
+
+
+res = requests.get(url,headers=header)
+content = res.text.encode('utf-8')
+soup = BeautifulSoup(content,'html.parser')         #做它一锅汤，并使用findall来找到图片 & p,h的文字
+imgs = soup.find_all('img')  
+
+
+content0 = soup.find_all('p','h')
+road = 'D:\images/a.text'
+with open(road,'w+') as f:          #文件操作
+    f.write(str(content0))
+    f.close
+print("over")
+
+#将文本导入text文件
+
+
+root_0 = "https://itawenya.cn/img/"
+a = 'png'
+strq = ''
+qq = -1                                                     #这个正则就是  https://itawenya.cn/img/房顶.png  提取出房顶这种夹在img/ & ，之间的汉字
+res  = re.compile('(?<=/img/).*?(?=.png")')
+root = "D:\images"
+list_0 = []
+for w in imgs:  
+    z = str(w)
+    # print(type(w))
+    # print(type(z))
+    m = ((res.findall((z))))#m是正则返回的一个列表
+    m.append('.')
+    n = strq.join(m)                #由于正则返回的列表并只有一个元素，我执行join发现没效果，就放弃本来打算链接http://itawenya.cn/img & 汉字 & .png
+    # print(n)                       #的想法，把后面的.png的点先放在汉字的列表中，再用join 链接。最后再join一次，得到url
+                                        #接下来就是open函数二进制写入了
+    # print(type(n)) 
+    ur = [root_0,n,a]
+    b = strq.join(ur)
+    r = requests.get(b)
+    path = root + '/' +b.split('/')[-1]
+    with open (path,'wb') as f:
+        f.write(r.content)
+        f.close
+        print("下好了")
+
+#将Url拼接
+
+res  = re.compile('(?<=/img/).*?(?=.")')
+root = "D:\images"
+list_0 = []
+for w in imgs:  
+    z = str(w)
+    # print(type(w))
+    # print(type(z))
+    m = ((res.findall((z))))#m是正则返回的一个列表
+    m.append('.')
+    n = strq.join(m)
+    # print(n)
+    # print(type(n)) 
+    ur = [root_0,n,a]
+    b = strq.join(ur)
+    r = requests.get(b)
+    path = root + '/' +b.split('/')[-1]
+    with open (path,'wb') as f:
+        f.write(r.content)
+        f.close
+        print("下好了")
+
+
+
